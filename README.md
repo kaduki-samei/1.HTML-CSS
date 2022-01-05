@@ -1,4 +1,4 @@
 # DMM WEBCAMP 【HTML/CSSを学ぼう】. 
-DMM WEBCAMの学習コンテンツHTML/CSSを学ぼうの研修課題です。  
+DMM WEBCAMの学習コンテンツHTML/CSSを学ぼうの学習履歴です。  
 ## 使い方. 
-html/cssファイルのため、PCブラウザで実行できます。  
+学習りれきの保存場所です。html/cssファイルはPCブラウザで実行できます。  
